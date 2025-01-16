@@ -48,8 +48,7 @@
   "lang": "en-US",
   "start_url": "./index.html?fullscreen=true",
   "display": "fullscreen",
-  "scope": "./index.html?fullscreen=true",
-  "background_color": "white",
+  "background_color": "red",
   "theme_color": "#ffffff"	
 
 	{
