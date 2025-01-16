@@ -46,8 +46,8 @@
   }
  ],
   "lang": "en-US",
-  "start_url": "./index.html",
-  "display": "standalone",
+  "start_url": "./index.html?fullscreen=true",
+  "display": "fullscreen",
   "background_color": "white",
   "theme_color": "#ffffff"	
  
